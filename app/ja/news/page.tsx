@@ -33,33 +33,6 @@ export default function JapaneseNewsPage() {
       category: 'フォーカスグループ',
       link: 'https://showaamericanstory.com/blog/2023/05/03/focus-group-session-announced/',
     },
-    {
-      id: 4,
-      title: '昭和アメリカンストーリー開発アップデート',
-      excerpt: '昭和アメリカンストーリーの最新開発進捗を共有できることを嬉しく思います。新機能や戦闘システムの改善を含みます。',
-      image: '/images/Chouko-960x540.jpeg',
-      date: '2023年3月15日',
-      category: '開発',
-      link: '#',
-    },
-    {
-      id: 5,
-      title: '舞台裏：昭和アメリカの世界創造',
-      excerpt: 'ポストアポカリプス設定における日本とアメリカ文化のユニークな融合の創造プロセスについて詳しく見てみましょう。',
-      image: '/images/Neo-Yokohama-960x540.jpeg',
-      date: '2023年2月28日',
-      category: '舞台裏',
-      link: '#',
-    },
-    {
-      id: 6,
-      title: '戦闘システム詳細解説',
-      excerpt: '昭和アメリカンストーリーをユニークにする自由奔放で残酷な戦闘システムについて学びましょう。超自然的な能力と多様な武器を特徴とします。',
-      image: '/images/Chouko.jpeg',
-      date: '2023年2月10日',
-      category: 'ゲームプレイ',
-      link: '#',
-    },
   ]
 
   return (
