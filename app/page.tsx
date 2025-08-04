@@ -113,14 +113,14 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-
+      
       {/* Countdown Section */}
       <section className="py-16 px-4">
         <div className="max-w-4xl mx-auto">
           <CountdownTimer />
         </div>
       </section>
-
+      
       {/* Game Introduction */}
       <section className="py-16 px-4 bg-gray-900">
         <div className="max-w-6xl mx-auto">
@@ -139,7 +139,7 @@ export default function HomePage() {
                 <p>
                   Enter Chouko, a 19-year-old stuntwoman whose dreams of stardom are shattered when she's assassinated and dumped in the wilderness. But death is not the end - she rises from the soil with supernatural powers and embarks on a revenge-fueled journey across Route 50.
                 </p>
-              </div>
+          </div>
             </div>
             <div className="relative">
               <div className="aspect-video rounded-lg overflow-hidden">
@@ -154,12 +154,12 @@ export default function HomePage() {
                   allowFullScreen
                   className="rounded-lg"
                 />
-              </div>
+            </div>
             </div>
           </div>
         </div>
       </section>
-
+      
       {/* Key Features */}
       <section className="py-16 px-4">
         <div className="max-w-6xl mx-auto">
@@ -176,17 +176,17 @@ export default function HomePage() {
                     fill
                     className="object-cover"
                   />
-                </div>
+            </div>
                 <div className="p-6">
                   <h3 className="text-xl font-bold mb-3">{feature.title}</h3>
                   <p className="text-gray-300">{feature.description}</p>
-                </div>
-              </div>
+            </div>
+            </div>
             ))}
           </div>
         </div>
       </section>
-
+      
       {/* How to Play */}
       <section className="py-16 px-4 bg-gray-900">
         <div className="max-w-4xl mx-auto text-center">
@@ -218,7 +218,7 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-
+      
       {/* Screenshots */}
       <section className="py-16 px-4">
         <div className="max-w-6xl mx-auto">
@@ -228,18 +228,18 @@ export default function HomePage() {
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
             {screenshots.map((screenshot, index) => (
               <div key={index} className="aspect-video relative rounded-lg overflow-hidden">
-                <Image
+              <Image
                   src={screenshot}
                   alt={`Showa American Story Screenshot ${index + 1}`}
-                  fill
+                fill
                   className="object-cover hover:scale-105 transition-transform duration-200"
-                />
-              </div>
+              />
+            </div>
             ))}
           </div>
         </div>
       </section>
-
+      
       {/* FAQ */}
       <section className="py-16 px-4 bg-gray-900">
         <div className="max-w-4xl mx-auto">
@@ -251,12 +251,12 @@ export default function HomePage() {
               <div key={index} className="bg-gray-800 p-6 rounded-lg">
                 <h3 className="text-xl font-bold mb-3">{faq.question}</h3>
                 <p className="text-gray-300">{faq.answer}</p>
-              </div>
+            </div>
             ))}
           </div>
         </div>
       </section>
-
+      
       {/* Call to Action */}
       <section className="py-16 px-4">
         <div className="max-w-4xl mx-auto text-center">

@@ -30,70 +30,70 @@ export default function TermsOfService() {
                 <h2 className="text-2xl font-bold mb-4">1. Acceptance of Terms</h2>
                 <p className="text-gray-300 leading-relaxed">
                   By accessing or using Showa American Story, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.
-                </p>
+            </p>
               </div>
 
               <div>
                 <h2 className="text-2xl font-bold mb-4">2. Use License</h2>
                 <p className="text-gray-300 mb-4">
                   Permission is granted to temporarily download one copy of Showa American Story per device for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
-                </p>
+            </p>
                 <ul className="list-disc list-inside space-y-2 text-gray-300">
-                  <li>Modify or copy the materials</li>
-                  <li>Use the materials for any commercial purpose</li>
+              <li>Modify or copy the materials</li>
+              <li>Use the materials for any commercial purpose</li>
                   <li>Attempt to decompile or reverse engineer any software contained in Showa American Story</li>
-                  <li>Remove any copyright or other proprietary notations from the materials</li>
-                  <li>Transfer the materials to another person or "mirror" the materials on any other server</li>
-                </ul>
+              <li>Remove any copyright or other proprietary notations from the materials</li>
+              <li>Transfer the materials to another person or "mirror" the materials on any other server</li>
+            </ul>
               </div>
 
               <div>
                 <h2 className="text-2xl font-bold mb-4">3. User Account</h2>
                 <p className="text-gray-300 leading-relaxed">
                   To access certain features of Showa American Story, you may be required to create an account. You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account.
-                </p>
+            </p>
               </div>
 
               <div>
                 <h2 className="text-2xl font-bold mb-4">4. User Conduct</h2>
                 <p className="text-gray-300 mb-4">
-                  You agree not to:
-                </p>
+              You agree not to:
+            </p>
                 <ul className="list-disc list-inside space-y-2 text-gray-300">
                   <li>Use Showa American Story for any illegal purpose</li>
-                  <li>Harass, abuse, or harm another person</li>
-                  <li>Impersonate any person or entity</li>
-                  <li>Interfere with or disrupt the service or servers</li>
-                  <li>Attempt to gain unauthorized access to any portion of the service</li>
-                </ul>
+              <li>Harass, abuse, or harm another person</li>
+              <li>Impersonate any person or entity</li>
+              <li>Interfere with or disrupt the service or servers</li>
+              <li>Attempt to gain unauthorized access to any portion of the service</li>
+            </ul>
               </div>
 
               <div>
                 <h2 className="text-2xl font-bold mb-4">5. Intellectual Property</h2>
                 <p className="text-gray-300 leading-relaxed">
                   The content, organization, graphics, design, and other matters related to Showa American Story are protected under applicable copyrights and other proprietary laws. The copying, redistribution, use, or publication of any such content is prohibited without our express permission.
-                </p>
+            </p>
               </div>
 
               <div>
                 <h2 className="text-2xl font-bold mb-4">6. Disclaimer</h2>
                 <p className="text-gray-300 leading-relaxed">
                   The materials on Showa American Story are provided on an 'as is' basis. We make no warranties, expressed or implied, and hereby disclaim and negate all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
-                </p>
+            </p>
               </div>
 
               <div>
                 <h2 className="text-2xl font-bold mb-4">7. Limitations</h2>
                 <p className="text-gray-300 leading-relaxed">
                   In no event shall Showa American Story or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Showa American Story.
-                </p>
+            </p>
               </div>
 
               <div>
                 <h2 className="text-2xl font-bold mb-4">8. Contact Information</h2>
                 <p className="text-gray-300 mb-4">
-                  If you have any questions about these Terms of Service, please contact us at:
-                </p>
+              If you have any questions about these Terms of Service, please contact us at:
+            </p>
                 <p className="text-gray-300">
                   Email: legal@nekcomgames.com
                 </p>

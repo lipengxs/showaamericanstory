@@ -1,5 +1,9 @@
 import React from 'react'
 import type { Metadata } from 'next'
+import { Inter } from 'next/font/google'
+import '../globals.css'
+
+const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: '昭和アメリカンストーリー - 公式サイト',
@@ -8,6 +12,10 @@ export const metadata: Metadata = {
   authors: [{ name: 'NEKCOM Games' }],
   creator: 'NEKCOM Games',
   publisher: 'NEKCOM Games',
+  other: {
+    'msvalidate.01': 'B362957FC36C5EDDD6079B6D78330424',
+    'yandex-verification': '7c53f06929310092',
+  },
   formatDetection: {
     email: false,
     address: false,

@@ -88,15 +88,15 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link href={getLocalizedPath('/')} className="flex items-center">
-            <Image
-              src="/logo.png"
+              <Image 
+                src="/logo.png" 
               alt={isJapanese ? "昭和アメリカンストーリー" : "Showa American Story"}
               width={220}
               height={70}
               className="h-14 w-auto"
-              priority
-            />
-          </Link>
+                priority
+              />
+            </Link>
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
@@ -107,7 +107,7 @@ const Header = () => {
                 className="text-gray-300 hover:text-white transition-colors duration-200 font-medium"
               >
                 {item.name}
-              </Link>
+            </Link>
             ))}
           </nav>
 
@@ -142,7 +142,7 @@ const Header = () => {
                       }}
                     >
                       {language.name}
-                    </Link>
+                  </Link>
                   ))}
                 </div>
               )}
