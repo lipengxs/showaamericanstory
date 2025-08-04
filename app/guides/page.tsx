@@ -46,12 +46,7 @@ export default function GuidesPage() {
   ]
 
   const publisherGames = [
-    {
-      title: 'Dune: Awakening',
-      description: 'An open-world survival MMO set in the iconic Dune universe.',
-      image: '/images/Chouko-960x540.jpeg',
-      link: 'https://store.steampowered.com/app/1172710/Dune_Awakening/',
-    },
+  
     {
       title: 'Other NEKCOM Games',
       description: 'Explore more titles from NEKCOM Games, known for innovative storytelling and unique gameplay experiences.',
@@ -266,14 +261,7 @@ export default function GuidesPage() {
             >
               Wishlist on Steam
             </a>
-            <a
-              href="https://store.steampowered.com/app/1172710/Dune_Awakening/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="bg-gray-800 hover:bg-gray-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors duration-200"
-            >
-              Play Dune: Awakening
-            </a>
+    
           </div>
         </div>
       </section>
