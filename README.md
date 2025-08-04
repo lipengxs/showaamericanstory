@@ -2,10 +2,30 @@
 
 A modern, responsive website for the Showa American Story game, built with Next.js 15, TypeScript, and Tailwind CSS.
 
+**🌐 Official Website**: [https://showa-american-story.com/](https://showa-american-story.com/)
+
+## About the Website
+
+The official Showa American Story website serves as the primary digital hub for fans and potential players to discover this unique post-apocalyptic action RPG. The website showcases the game's distinctive blend of Japanese and American culture in a world where Japan has economically dominated the United States.
+
+### Website Features
+- **Immersive Landing Experience**: Hero section with dynamic countdown timer to game release
+- **Comprehensive Game Information**: Detailed story, features, and gameplay mechanics
+- **Rich Media Gallery**: Official trailers, gameplay videos, and high-quality screenshots
+- **Multi-language Support**: Full English and Japanese localization
+- **SEO Optimized**: Built for maximum search engine visibility and discoverability
+- **Mobile Responsive**: Perfect experience across all devices and screen sizes
+
+### Target Audience
+- Gaming enthusiasts interested in unique RPG experiences
+- Fans of Japanese and American pop culture fusion
+- Players looking for post-apocalyptic action games
+- International audience (English and Japanese speakers)
+
 ## Features
 
 - **Modern Design**: Clean, responsive design with dark theme optimized for gaming websites
-- **Multi-language Support**: English and Japanese language support (structure ready)
+- **Multi-language Support**: English and Japanese language support with automatic IP-based redirection
 - **SEO Optimized**: Comprehensive meta tags, structured data, and performance optimizations
 - **Interactive Elements**: Countdown timer, responsive navigation, and smooth animations
 - **Game Information**: Complete game details, system requirements, and media gallery
@@ -115,5 +135,11 @@ This project is created for the Showa American Story game website. All game asse
 ## Contact
 
 For questions about the game, visit the official NEKCOM Games website or Steam page.
+
+---
+
+**Website**: [https://showa-american-story.com/](https://showa-american-story.com/)  
+**Game Publisher**: NEKCOM Games  
+**Platforms**: PlayStation 4, PlayStation 5, PC (Steam)
 
 
