@@ -17,6 +17,11 @@ const Footer = () => {
       icon: '/images/icon-steam.svg',
     },
     {
+      name: 'GitHub',
+      href: 'https://github.com/lipengxs/showaamericanstory',
+      icon: '/images/icon-github.svg',
+    },
+    {
       name: 'Twitter',
       href: 'https://twitter.com/NEKCOM_SAS',
       icon: '/images/icon-twitter.svg',

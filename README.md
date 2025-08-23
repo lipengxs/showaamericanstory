@@ -139,6 +139,7 @@ For questions about the game, visit the official NEKCOM Games website or Steam p
 ---
 
 **Website**: [https://showa-american-story.com/](https://showa-american-story.com/)  
+**GitHub Repository**: [https://github.com/lipengxs/showaamericanstory](https://github.com/lipengxs/showaamericanstory)  
 **Game Publisher**: NEKCOM Games  
 **Platforms**: PlayStation 4, PlayStation 5, PC (Steam)
 
