@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   publisher: 'NEKCOM Games',
   other: {
     'msvalidate.01': 'B362957FC36C5EDDD6079B6D78330424',
-    'yandex-verification': '7c53f06929310092',
+    'yandex-verification': '8efc5c28f3725232',
   },
   formatDetection: {
     email: false,
@@ -80,6 +80,22 @@ export default function RootLayout({
         <meta name="theme-color" content="#000000" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        
+        {/* 广告代码 - 确保在所有页面源代码中都能看到 */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              atOptions = {
+                'key' : '52c4d8bf21fcb0528adfac339324941a',
+                'format' : 'iframe',
+                'height' : 60,
+                'width' : 468,
+                'params' : {}
+              };
+            `
+          }}
+        />
+        <script src="//www.highperformanceformat.com/52c4d8bf21fcb0528adfac339324941a/invoke.js" />
       </head>
       <body className={inter.className}>
         <LanguageProvider>
