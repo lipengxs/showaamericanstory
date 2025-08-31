@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# 允许爬取主要页面
+Allow: /guides/
+Allow: /news/
+Allow: /media/
+Allow: /privacy-policy/
+Allow: /terms-of-service/
+
+# 允许爬取图片资源
+Allow: /images/
+Allow: /logo.png
+Allow: /favicon.ico
+
+# 禁止爬取管理页面和API
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /sw.js
+
+# 禁止爬取开发相关文件
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /*.map$
+
+# 设置爬取延迟（可选）
+Crawl-delay: 1
+
+# 网站地图位置
+Sitemap: https://showa-american-story.com/sitemap.xml
