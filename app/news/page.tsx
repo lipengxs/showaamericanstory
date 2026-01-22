@@ -8,7 +8,7 @@ export default function NewsPage() {
   const newsArticles = [
     {
       id: 1,
-      title: 'First Official SAS Merch Available Now!',
+      title: 'First SAS Merch Available Now!',
       excerpt: 'Today we are thrilled to announce that we are launching our brand new online store with the first-ever collection of official SAS merch, hand-crafted by our talented artists!',
       image: '/images/SAS-Merch-Announcement.png',
       date: 'January 4, 2024',
@@ -82,8 +82,9 @@ export default function NewsPage() {
                   <a
                     href={article.link}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow"
                     className="inline-flex items-center text-red-400 hover:text-red-300 font-semibold transition-colors duration-200"
+                    title="External link - opens in new tab"
                   >
                     Read More
                     <svg
@@ -113,18 +114,29 @@ export default function NewsPage() {
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
             Stay Connected
           </h2>
-          <p className="text-xl text-gray-300 mb-8">
-            Subscribe to our newsletter to receive the latest updates about Showa American Story directly in your inbox.
+          <p className="text-xl text-gray-300 mb-4">
+            Follow official channels for the latest updates about Showa American Story.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center max-w-md mx-auto">
-            <input
-              type="email"
-              placeholder="Enter your email"
-              className="flex-1 px-4 py-3 rounded-lg bg-gray-800 border border-gray-700 text-white placeholder-gray-400 focus:outline-none focus:border-red-500"
-            />
-            <button className="bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors duration-200">
-              Subscribe
-            </button>
+          <p className="text-sm text-gray-400 mb-8">
+            Note: This is a fan website. For official news and updates, please follow NEKCOM Games on their official social media channels.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center max-w-md mx-auto mb-4">
+            <a
+              href="https://twitter.com/NEKCOM_SAS"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors duration-200"
+            >
+              Follow Official Twitter
+            </a>
+            <a
+              href="https://www.youtube.com/channel/UC7oPlGEZ0KUJL2dD13BJ8sQ"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-gray-800 hover:bg-gray-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors duration-200"
+            >
+              Subscribe on YouTube
+            </a>
           </div>
         </div>
       </section>

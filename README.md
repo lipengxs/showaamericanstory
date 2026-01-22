@@ -1,12 +1,14 @@
-# Showa American Story - Official Website
+# Showa American Story - Fan Website
 
-A modern, responsive website for the Showa American Story game, built with Next.js 15, TypeScript, and Tailwind CSS.
+A modern, responsive fan website for the Showa American Story game, built with Next.js 15, TypeScript, and Tailwind CSS.
 
-**🌐 Official Website**: [https://showa-american-story.com/](https://showa-american-story.com/)
+**🌐 Website**: [https://showa-american-story.com/](https://showa-american-story.com/)
+
+**⚠️ Disclaimer**: This is a fan-created website and is not affiliated with, endorsed by, or connected to NEKCOM Games or any official Showa American Story entities. All game content, trademarks, and copyrights belong to their respective owners.
 
 ## About the Website
 
-The official Showa American Story website serves as the primary digital hub for fans and potential players to discover this unique post-apocalyptic action RPG. The website showcases the game's distinctive blend of Japanese and American culture in a world where Japan has economically dominated the United States.
+This fan-created website serves as a digital hub for fans and potential players to discover information about this unique post-apocalyptic action RPG. The website showcases the game's distinctive blend of Japanese and American culture in a world where Japan has economically dominated the United States.
 
 ### Website Features
 - **Immersive Landing Experience**: Hero section with dynamic countdown timer to game release
@@ -134,7 +136,7 @@ This project is created for the Showa American Story game website. All game asse
 
 ## Contact
 
-For questions about the game, visit the official NEKCOM Games website or Steam page.
+For questions about the game, visit the official NEKCOM Games website (https://nekcomgames.com/) or Steam page. This website is a fan-created, unofficial resource.
 
 ---
 

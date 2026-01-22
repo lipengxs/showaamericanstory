@@ -27,13 +27,13 @@ export default function JapaneseMediaPage() {
               <div className="aspect-video relative">
                 <Image
                   src="/images/hqdefault.jpg"
-                  alt="公式発表トレーラー"
+                  alt="発表トレーラー"
                   fill
                   className="object-cover"
                 />
               </div>
               <div className="p-4">
-                <h3 className="font-bold mb-2">公式発表トレーラー</h3>
+                <h3 className="font-bold mb-2">発表トレーラー</h3>
                 <a
                   href="https://youtube.com/watch?v=-D86NcserWk"
                   target="_blank"

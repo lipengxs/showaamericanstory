@@ -8,7 +8,7 @@ export default function JapaneseNewsPage() {
   const newsArticles = [
     {
       id: 1,
-      title: '初回公式SASグッズ販売開始！',
+      title: '初回SASグッズ販売開始！',
       excerpt: '本日、私たちの才能あるアーティストが手作りした初回公式SASグッズコレクションを扱う新しいオンラインストアの立ち上げを発表できることを嬉しく思います！',
       image: '/images/SAS-Merch-Announcement.png',
       date: '2024年1月4日',
@@ -81,8 +81,9 @@ export default function JapaneseNewsPage() {
                   <a
                     href={article.link}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow"
                     className="inline-flex items-center text-red-400 hover:text-red-300 font-semibold transition-colors duration-200"
+                    title="外部リンク - 新しいタブで開きます"
                   >
                     続きを読む
                     <svg
@@ -112,18 +113,29 @@ export default function JapaneseNewsPage() {
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
             最新情報をお届け
           </h2>
-          <p className="text-xl text-gray-300 mb-8">
-            昭和アメリカンストーリーの最新アップデートをメールで受け取るためにニュースレターに登録してください。
+          <p className="text-xl text-gray-300 mb-4">
+            昭和アメリカンストーリーの最新アップデートについては、公式チャンネルをフォローしてください。
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center max-w-md mx-auto">
-            <input
-              type="email"
-              placeholder="メールアドレスを入力"
-              className="flex-1 px-4 py-3 rounded-lg bg-gray-800 border border-gray-700 text-white placeholder-gray-400 focus:outline-none focus:border-red-500"
-            />
-            <button className="bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors duration-200">
-              登録
-            </button>
+          <p className="text-sm text-gray-400 mb-8">
+            注意：このサイトはファンサイトです。公式のニュースやアップデートについては、NEKCOM Gamesの公式ソーシャルメディアチャンネルをフォローしてください。
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center max-w-md mx-auto mb-4">
+            <a
+              href="https://twitter.com/NEKCOM_SAS"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors duration-200"
+            >
+              公式Twitterをフォロー
+            </a>
+            <a
+              href="https://www.youtube.com/channel/UC7oPlGEZ0KUJL2dD13BJ8sQ"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-gray-800 hover:bg-gray-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors duration-200"
+            >
+              YouTubeで登録
+            </a>
           </div>
         </div>
       </section>

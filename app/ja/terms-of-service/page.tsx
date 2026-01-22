@@ -90,16 +90,23 @@ export default function JapaneseTermsOfService() {
               </div>
 
               <div>
-                <h2 className="text-2xl font-bold mb-4">8. 連絡先情報</h2>
+                <h2 className="text-2xl font-bold mb-4">8. 免責事項</h2>
+                <p className="text-gray-300 mb-4 leading-relaxed">
+                  このウェブサイトはファンが作成した非公式のウェブサイトであり、NEKCOM Gamesや昭和アメリカンストーリーの公式エンティティとは提携、承認、または関連していません。すべてのゲームコンテンツ、商標、著作権はそれぞれの所有者に帰属します。
+                </p>
+                <p className="text-gray-300 mb-4 leading-relaxed">
+                  昭和アメリカンストーリーに関する公式のお問い合わせについては、NEKCOM Gamesの公式チャンネル（<a href="https://nekcomgames.com/" target="_blank" rel="noopener noreferrer" className="text-red-400 hover:text-red-300 underline">nekcomgames.com</a>）を通じてお問い合わせください。
+                </p>
+              </div>
+
+              <div>
+                <h2 className="text-2xl font-bold mb-4">9. 連絡先情報</h2>
                 <p className="text-gray-300 mb-4">
-                  これらの利用規約についてご質問がある場合は、以下までお問い合わせください：
+                  これらの利用規約についてご質問がある場合は、このサイトがファンサイトであることにご注意ください。公式のゲームに関するお問い合わせについては、NEKCOM Gamesの公式ウェブサイトを通じてお問い合わせください。
                 </p>
                 <p className="text-gray-300">
-                  メール: legal@nekcomgames.com
-                </p>
-                <p className="text-gray-300">
-                  NEKCOM Games<br />
-                  昭和アメリカンストーリーチーム
+                  公式ゲーム開発者: NEKCOM Games<br />
+                  公式ウェブサイト: <a href="https://nekcomgames.com/" target="_blank" rel="noopener noreferrer" className="text-red-400 hover:text-red-300 underline">nekcomgames.com</a>
                 </p>
               </div>
             </div>

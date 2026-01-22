@@ -1,14 +1,16 @@
 # Showa American Story - English Promotion Post
 
-## 🎮 OFFICIAL WEBSITE LAUNCH: Showa American Story
+## 🎮 GAME INFORMATION WEBSITE: Showa American Story
 
 **🌐 Visit Now**: [https://showa-american-story.com/](https://showa-american-story.com/)
+
+**⚠️ Disclaimer**: This is a fan-created website and is not affiliated with, endorsed by, or connected to NEKCOM Games or any official Showa American Story entities. All game content, trademarks, and copyrights belong to their respective owners.
 
 ---
 
 ### 🚀 **Experience the Rise of Showa America**
 
-Discover the official website for **Showa American Story** - a groundbreaking post-apocalyptic action RPG that seamlessly blends Japanese and American cultures in a world where Japan has economically dominated the United States.
+Discover information about **Showa American Story** - a groundbreaking post-apocalyptic action RPG that seamlessly blends Japanese and American cultures in a world where Japan has economically dominated the United States.
 
 ### 🎯 **What Makes This Game Unique?**
 
@@ -23,11 +25,11 @@ Discover the official website for **Showa American Story** - a groundbreaking po
 
 ### 🎬 **Rich Media Experience**
 
-The official website offers:
-- **Official Trailers**: Watch the latest gameplay and story trailers
+The website offers:
+- **Game Trailers**: Watch the latest gameplay and story trailers
 - **Screenshot Gallery**: Explore stunning visuals from the game world
 - **Wallpapers**: Download high-quality wallpapers for your devices
-- **Latest News**: Stay updated with game announcements and updates
+- **Latest News**: Stay updated with game announcements and updates (links to official sources)
 
 ### 🌍 **Multi-Language Support**
 
@@ -63,7 +65,9 @@ The website is fully responsive and provides an excellent experience on all devi
 
 ### 🚀 **Ready to Experience Showa America?**
 
-**Visit the official website today**: [https://showa-american-story.com/](https://showa-american-story.com/)
+**Visit the game information website today**: [https://showa-american-story.com/](https://showa-american-story.com/)
+
+**For official information, visit**: [NEKCOM Games Official Website](https://nekcomgames.com/)
 
 **Wishlist on Steam**: [https://store.steampowered.com/app/1687540/Showa_American_Story/](https://store.steampowered.com/app/1687540/Showa_American_Story/)
 

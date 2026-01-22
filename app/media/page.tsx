@@ -6,7 +6,7 @@ export default function MediaPage() {
   const videos = [
     {
       id: 1,
-      title: 'Showa American Story - Official Reveal Trailer',
+      title: 'Showa American Story - Reveal Trailer',
       thumbnail: '/images/hqdefault.jpg',
       url: 'https://www.youtube.com/watch?v=-D86NcserWk',
       duration: '2:45',

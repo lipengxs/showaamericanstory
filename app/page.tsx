@@ -147,7 +147,7 @@ export default function HomePage() {
                   width="100%"
                   height="100%"
                   src="https://www.youtube.com/embed/-D86NcserWk?si=wTReyM6GuCcOXmkz"
-                  title="Showa American Story Official Trailer"
+                  title="Showa American Story Trailer"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   referrerPolicy="strict-origin-when-cross-origin"

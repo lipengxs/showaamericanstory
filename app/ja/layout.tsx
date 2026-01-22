@@ -6,12 +6,12 @@ import '../globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: '昭和アメリカンストーリー - 公式サイト',
+  title: '昭和アメリカンストーリー - ファンサイト',
   description: '日本とアメリカの文化が融合したポストアポカリプスアクションRPG。チョウコの復讐の旅に参加しよう。',
   keywords: '昭和アメリカンストーリー, NEKCOM, RPG, アクションゲーム, ポストアポカリプス, 日本文化, アメリカ文化, チョウコ, ビデオゲーム',
-  authors: [{ name: 'NEKCOM Games' }],
-  creator: 'NEKCOM Games',
-  publisher: 'NEKCOM Games',
+  authors: [{ name: '昭和アメリカンストーリーファンコミュニティ' }],
+  creator: '昭和アメリカンストーリーファンコミュニティ',
+  publisher: '昭和アメリカンストーリーファンコミュニティ',
   other: {
     'msvalidate.01': 'B362957FC36C5EDDD6079B6D78330424',
     'yandex-verification': '7c53f06929310092',
@@ -30,10 +30,10 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: '昭和アメリカンストーリー - 公式サイト',
+    title: '昭和アメリカンストーリー - ファンサイト',
     description: '日本とアメリカの文化が融合したポストアポカリプスアクションRPG。',
     url: 'https://showa-american-story.com/ja',
-    siteName: '昭和アメリカンストーリー',
+    siteName: '昭和アメリカンストーリーファンサイト',
     images: [
       {
         url: '/images/showa-logo.svg',
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '昭和アメリカンストーリー - 公式サイト',
+    title: '昭和アメリカンストーリー - ファンサイト',
     description: '日本とアメリカの文化が融合したポストアポカリプスアクションRPG。',
     images: ['/images/showa-logo.svg'],
   },

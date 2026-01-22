@@ -90,16 +90,23 @@ export default function TermsOfService() {
               </div>
 
               <div>
-                <h2 className="text-2xl font-bold mb-4">8. Contact Information</h2>
+                <h2 className="text-2xl font-bold mb-4">8. Disclaimer</h2>
+                <p className="text-gray-300 mb-4 leading-relaxed">
+                  This is a fan-created website and is not affiliated with, endorsed by, or connected to NEKCOM Games or any official Showa American Story entities. All game content, trademarks, and copyrights belong to their respective owners.
+                </p>
+                <p className="text-gray-300 mb-4 leading-relaxed">
+                  For official inquiries about Showa American Story, please contact NEKCOM Games through their official channels at <a href="https://nekcomgames.com/" target="_blank" rel="noopener noreferrer" className="text-red-400 hover:text-red-300 underline">nekcomgames.com</a>.
+                </p>
+              </div>
+
+              <div>
+                <h2 className="text-2xl font-bold mb-4">9. Contact Information</h2>
                 <p className="text-gray-300 mb-4">
-              If you have any questions about these Terms of Service, please contact us at:
+              If you have any questions about these Terms of Service, please note that this is a fan website. For official game inquiries, please contact NEKCOM Games through their official website.
             </p>
                 <p className="text-gray-300">
-                  Email: legal@nekcomgames.com
-                </p>
-                <p className="text-gray-300">
-                  NEKCOM Games<br />
-                  Showa American Story Team
+                  Official Game Developer: NEKCOM Games<br />
+                  Official Website: <a href="https://nekcomgames.com/" target="_blank" rel="noopener noreferrer" className="text-red-400 hover:text-red-300 underline">nekcomgames.com</a>
                 </p>
               </div>
             </div>

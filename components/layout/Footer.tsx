@@ -111,11 +111,30 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Bottom Section */}
+        {/* Disclaimer Section */}
         <div className="mt-8 pt-8 border-t border-gray-800">
+          <div className="bg-yellow-900/20 border border-yellow-700/50 rounded-lg p-4 mb-6">
+            <h4 className="text-yellow-400 font-bold mb-2 text-sm">
+              {isJapanese ? '免責事項' : 'Disclaimer'}
+            </h4>
+            <p className="text-xs text-gray-300 leading-relaxed">
+              {isJapanese 
+                ? 'このウェブサイトはファンが作成した非公式のウェブサイトであり、NEKCOM Gamesや昭和アメリカンストーリーの公式エンティティとは提携、承認、または関連していません。すべてのゲームコンテンツ、商標、著作権はそれぞれの所有者に帰属します。'
+                : 'This is a fan-created website and is not affiliated with, endorsed by, or connected to NEKCOM Games or any official Showa American Story entities. All game content, trademarks, and copyrights belong to their respective owners.'}
+            </p>
+          </div>
+        </div>
+
+        {/* Bottom Section */}
+        <div className="mt-4 pt-4 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-start md:items-center space-y-4 md:space-y-0">
             <div className="text-sm text-gray-400">
               <p>© {currentYear} showa-american-story.com. All Rights Reserved.</p>
+              <p className="text-xs mt-1 text-gray-500">
+                {isJapanese 
+                  ? 'このサイトはファンコミュニティによって運営されています。'
+                  : 'This site is operated by the fan community.'}
+              </p>
             </div>
             <div className="flex space-x-4">
               <Link

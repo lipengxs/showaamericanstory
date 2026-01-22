@@ -9,12 +9,12 @@ import LanguageProvider from '../components/LanguageProvider'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Showa American Story - Official Website',
+  title: 'Showa American Story - Fan Website',
   description: 'Experience the unique blend of Japanese and American culture in this post-apocalyptic action RPG. Join Chouko on her revenge-fueled journey across Showa America.',
   keywords: 'Showa American Story, NEKCOM, RPG, action game, post-apocalyptic, Japanese culture, American culture, Chouko, video game',
-  authors: [{ name: 'NEKCOM Games' }],
-  creator: 'NEKCOM Games',
-  publisher: 'NEKCOM Games',
+  authors: [{ name: 'Showa American Story Fan Community' }],
+  creator: 'Showa American Story Fan Community',
+  publisher: 'Showa American Story Fan Community',
   other: {
     'msvalidate.01': 'B362957FC36C5EDDD6079B6D78330424',
     'yandex-verification': '8efc5c28f3725232',
@@ -33,10 +33,10 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: 'Showa American Story - Official Website',
+    title: 'Showa American Story - Fan Website',
     description: 'Experience the unique blend of Japanese and American culture in this post-apocalyptic action RPG.',
     url: 'https://showa-american-story.com',
-    siteName: 'Showa American Story',
+    siteName: 'Showa American Story Fan Site',
     images: [
       {
         url: '/images/showa-logo.svg',
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Showa American Story - Official Website',
+    title: 'Showa American Story - Fan Website',
     description: 'Experience the unique blend of Japanese and American culture in this post-apocalyptic action RPG.',
     images: ['/images/showa-logo.svg'],
   },
